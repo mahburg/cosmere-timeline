@@ -1,0 +1,58 @@
+{
+  "Cosmere": {
+    "color": "white"
+  },
+  "Sel": {
+    "color": "lime",
+    "books": ["Elantris", "The Emperor's Soul"],
+    "primary": "Elantris"
+  },
+  "Threnody": {
+    "color": "pink",
+    "books": ["Shadows for Silence in the Forests of Hell"],
+    "primary": "Shadows for Silence in the Forests of Hell"
+  },
+  "Nalthis": {
+    "color": "magenta",
+    "books": ["Warbreaker"],
+    "primary": "Warbreaker"
+  },
+  "Scadrial": {
+    "color": "teal",
+    "books": [
+      "\"Mistborn\": The Final Empire",
+      "\"Mistborn\": The Well of Ascension",
+      "\"Mistborn\": The Hero of Ages",
+      "The Alloy of Law",
+      "Shadows of Self",
+      "The Bands of Mourning",
+      "The Lost Metal"
+    ],
+    "primary": "Mistborn"
+  },
+  "Roshar": {
+    "color": "#55f",
+    "books": [
+      "The Way of Kings",
+      "Words of Radiance",
+      "Oathbringer",
+      "Rhythm of War"
+    ],
+    "primary": "The Stormlight Archive"
+  },
+  "Taldain": {
+    "color": "firebrick",
+    "books": ["White Sand"],
+    "primary": "White Sand"
+  },
+  "Drominad": {
+    "color": "yellow",
+    "books": ["Sixth of the Dusk"],
+    "primary": "Sixth of the Dusk"
+  },
+  "Cantical": {
+    "color": "orange",
+    "books": ["The Sunlit Man"],
+    "primary": "The Sunlit Man"
+  }
+}

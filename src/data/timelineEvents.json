@@ -1,0 +1,486 @@
+[
+  {
+    "year": 0,
+    "system": "Cosmere",
+    "events": "Shattering of Adonalsium",
+    "books": [],
+    "shards": [
+      "Ambition",
+      "Autonomy",
+      "Cultivation",
+      "Devotion",
+      "Dominion",
+      "Endowment",
+      "Honor",
+      "Invention",
+      "Mercy",
+      "Odium",
+      "Preservation",
+      "Ruin",
+      "Valor",
+      "Whimsy"
+    ]
+  },
+  {
+    "year": 1000,
+    "system": "Sel",
+    "events": "Odium splinters Devotion and Dominion and locks their power in the Cognitive Realm",
+    "books": [],
+    "shards": ["Devotion", "Dominion", "Odium"]
+  },
+  {
+    "year": 2000,
+    "system": "Threnody",
+    "events": "Odium mortally wounds Ambition",
+    "books": ["Arcanum Unbounded"],
+    "shards": ["Ambition", "Odium"]
+  },
+  {
+    "year": 6000,
+    "system": "Roshar",
+    "events": "The Oathpact is broken",
+    "books": ["The Way of Kings (prelude)"],
+    "shards": []
+  },
+  {
+    "year": 8111,
+    "system": "Taldain",
+    "events": "White Sand takes place",
+    "books": ["White Sand"],
+    "shards": []
+  },
+  {
+    "year": 8801,
+    "system": "Sel",
+    "events": "The Fjordell First Empire Collapses; Fjordell adopts the Shu-Dereth religion",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 8901,
+    "system": "Sel",
+    "events": "Beginning of Sel's Late Era",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 8906.6,
+    "system": "Roshar",
+    "events": "The Recreance",
+    "books": ["The Way of Kings (Dalinar's vision)"],
+    "shards": []
+  },
+  {
+    "year": 8956.6,
+    "system": "Roshar",
+    "events": "Tanavast's death happens before this point",
+    "books": [],
+    "shards": ["Honor"]
+  },
+  {
+    "year": 9001,
+    "system": "Sel",
+    "events": "Baron Shuden's family moves to Arelon",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9041,
+    "system": "Sel",
+    "events": "Dilaf is born in Fjordell",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9051,
+    "system": "Sel",
+    "events": "Dilaf joins the Dakhor Monastery",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9061,
+    "system": "Sel",
+    "events": "Teod expels all Derethi priests from its territory",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9081,
+    "system": "Sel",
+    "events": "Hrathen joins the Derethi priesthood and spends a short time at Dakhor. Dilaf leaves Dakhor for Arelon",
+    "books": ["Elantris"],
+    "shards": []
+  },
+  {
+    "year": 9086,
+    "system": "Sel",
+    "events": "Sarene is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9091,
+    "system": "Sel",
+    "events": "Dilaf's wife is made Hoed",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9096,
+    "system": "Sel",
+    "events": "Seinalan is made patriarch of Shu-Korath in response to Wulfden becoming Wyrn. Dreok Crushthroat attempts to take the throne of Arelon but is defeated",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9099,
+    "system": "Sel",
+    "events": "Raoden's mother dies",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9101,
+    "system": "Sel",
+    "events": "The Reod occurs",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9106,
+    "system": "Sel",
+    "events": "Adien taken by the Shaod",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9109,
+    "system": "Sel",
+    "events": "Soine, daughter of Telrii, taken by the Shaod",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 9111,
+    "system": "Sel",
+    "events": "Raoden taken by the Shaod. Sarene and Hrathen arrive in Arelon",
+    "books": ["Elantris", "The Hope of Elantris"],
+    "shards": []
+  },
+  {
+    "year": 9121,
+    "system": "Sel",
+    "events": "Elantris 2",
+    "books": ["Elantris 2"],
+    "shards": []
+  },
+  {
+    "year": 9131,
+    "system": "Sel",
+    "events": "Elantris 3",
+    "books": ["Elantris 3"],
+    "shards": []
+  },
+  {
+    "year": 9301,
+    "system": "Sel",
+    "events": "The Emperor's Soul takes place.",
+    "books": ["The Emperor's Soul"],
+    "shards": []
+  },
+  {
+    "year": 9601,
+    "system": "Scadrial",
+    "events": "Rashek uses the power of the Well of Ascension",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10426,
+    "system": "Nalthis",
+    "events": "Discovery of Awakening",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10436.3,
+    "system": "Roshar",
+    "events": "End of the Hierocracy (approx.)",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10526,
+    "system": "Nalthis",
+    "events": "The Manywar",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10585,
+    "system": "Scadrial",
+    "events": "Kelsier is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10606,
+    "system": "Scadrial",
+    "events": "Vin is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10619,
+    "system": "Scadrial",
+    "events": "Kelsier captured",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10620,
+    "system": "Scadrial",
+    "events": "Kelsier escapes the Pits of Hathsin; Kelsier trains with Gemmel",
+    "books": ["The Eleventh Metal"],
+    "shards": []
+  },
+  {
+    "year": 10621,
+    "system": "Scadrial",
+    "events": "Reen and Vin arrive in Luthadel; Reen abandons Vin",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10622,
+    "system": "Scadrial",
+    "events": "Kelsier arrives in Luthadel",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10623,
+    "system": "Scadrial",
+    "events": "Kelsier dies, The Lord Ruler is killed",
+    "books": ["The Final Empire", "Secret History"],
+    "shards": []
+  },
+  {
+    "year": 10624,
+    "system": "Scadrial",
+    "events": "Siege of Luthadel",
+    "books": ["The Well of Ascension", "Secret History"],
+    "shards": []
+  },
+  {
+    "year": 10625,
+    "system": "Scadrial",
+    "events": "Ruin is released",
+    "books": ["The Well of Ascension", "Secret History"],
+    "shards": ["Ruin"]
+  },
+  {
+    "year": 10626,
+    "system": "Scadrial",
+    "events": "Sazed ascends to become Harmony",
+    "books": ["The Hero of Ages", "Secret History"],
+    "shards": ["Harmony"]
+  },
+  {
+    "year": 10826,
+    "system": "Nalthis",
+    "events": "The Pahn Kal Rebellion",
+    "books": ["Warbreaker"],
+    "shards": []
+  },
+  {
+    "year": 10836,
+    "system": "Nalthis",
+    "events": "(future Nightblood book)",
+    "books": ["Nightblood"],
+    "shards": []
+  },
+  {
+    "year": 10850,
+    "system": "Threnody",
+    "events": "Silence hunts Chesterton Divide",
+    "books": ["Shadows for Silence in the Forests of Hell"],
+    "shards": []
+  },
+  {
+    "year": 10918.1,
+    "system": "Roshar",
+    "events": "Szeth is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10919.2,
+    "system": "Roshar",
+    "events": "Jasnah is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10926.9,
+    "system": "Roshar",
+    "events": "Elhokar is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10935.7,
+    "system": "Roshar",
+    "events": "Kaladin is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10937.9,
+    "system": "Roshar",
+    "events": "Tien is born",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10945.6,
+    "system": "Roshar",
+    "events": "Dalinar's wife dies",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10947.8,
+    "system": "Roshar",
+    "events": "Szeth is named Truthless",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10948.9,
+    "system": "Roshar",
+    "events": "First encounter with the Parshendi",
+    "books": [],
+    "shards": []
+  },
+  {
+    "year": 10950,
+    "system": "Roshar",
+    "events": "War of Reckoning Begins",
+    "books": ["The Way of Kings (prologue)"],
+    "shards": []
+  },
+  {
+    "year": 10951.1,
+    "system": "Roshar",
+    "events": "Kaladin and Tien join Amaram's army",
+    "books": ["The Way of Kings (flashbacks)"],
+    "shards": []
+  },
+  {
+    "year": 10954.4,
+    "system": "Roshar",
+    "events": "Shallan's brother Helaran disappears and is presumed dead",
+    "books": ["Words of Radiance (flashbacks)"],
+    "shards": []
+  },
+  {
+    "year": 10955.5,
+    "system": "Roshar",
+    "events": "Kaladin rescues Amaram; turns down Shardblade and Shardplate. Taravangian obtains Szeth's Oathstone",
+    "books": ["The Way of Kings (flashbacks)"],
+    "shards": []
+  },
+  {
+    "year": 10956.6,
+    "system": "Roshar",
+    "events": "Bridge Four rescues Dalinar's army. The Everstorm starts.",
+    "books": ["The Way of Kings", "Words of Radiance"],
+    "shards": []
+  },
+  {
+    "year": 10957.7,
+    "system": "Roshar",
+    "events": "Lift confronts Darkness in Yeddaw",
+    "books": ["Edgedancer", "Oathbringer", "Stormlight Archive 4"],
+    "shards": []
+  },
+  {
+    "year": 10958.8,
+    "system": "Roshar",
+    "events": "(Stormlight 5)",
+    "books": ["Stormlight Archive 5"],
+    "shards": []
+  },
+  {
+    "year": 10967,
+    "system": "Scadrial",
+    "events": "Wax returns to Elendel",
+    "books": ["The Alloy of Law"],
+    "shards": []
+  },
+  {
+    "year": 10968,
+    "system": "Scadrial",
+    "events": "Paalm attacks Elendel. First Contact with the Southern Scadrians",
+    "books": ["Shadows of Self", "The Bands of Mourning"],
+    "shards": []
+  },
+  {
+    "year": 10969,
+    "system": "Scadrial",
+    "events": "Marasi thwarts Autonomy's Invasion of Scadrial",
+    "books": ["The Lost Metal"],
+    "shards": ["Autonomy"]
+  },
+  {
+    "year": 10975.3,
+    "system": "Roshar",
+    "events": "(Stormlight Archive 6, Stormlight Archive 7)",
+    "books": ["Stormlight Archive 6", "Stormlight Archive 7"],
+    "shards": []
+  },
+  {
+    "year": 10976.4,
+    "system": "Roshar",
+    "events": "(Stormlight Archive 8, Stormlight Archive 9)",
+    "books": ["Stormlight Archive 8", "Stormlight Archive 9"],
+    "shards": []
+  },
+  {
+    "year": 10977.5,
+    "system": "Roshar",
+    "events": "(Stormlight Archive 10)",
+    "books": ["Stormlight Archive 10"],
+    "shards": []
+  },
+  {
+    "year": 11019,
+    "system": "Scadrial",
+    "events": "(Mistborn Era 3)",
+    "books": ["Mistborn Era 3"],
+    "shards": []
+  },
+  {
+    "year": 15919,
+    "system": "Drominad",
+    "events": "The Ones Above make contact with First of the Sun",
+    "books": ["Sixth of the Dusk"],
+    "shards": []
+  },
+  {
+    "year": 16019,
+    "system": "Scadrial",
+    "events": "(Mistborn Era 4)",
+    "books": ["Mistborn Era 4"],
+    "shards": []
+  },
+  {
+    "year": 15000,
+    "system": "Cantical",
+    "events": "The Sunlit Man (extremely rough estimate)",
+    "books": ["The Sunlit Man"],
+    "shards": []
+  }
+]
