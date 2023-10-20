@@ -17,12 +17,12 @@ function App() {
 }
 
 const AppContainer = styled.div`
-  background-color: #222;
+  background-color: #333;
   color: white;
-  height: 100vh;
+  /* height: 100vh; */
   width: 100%;
-  padding: 20px 0;
-  padding-top: 60px;
+  padding: 60px 0;
+  /* padding-top: 60px; */
 `;
 
 const Header = styled.header`
@@ -35,6 +35,7 @@ const Header = styled.header`
   align-items: center;
   justify-content: center;
   padding: 10px;
+  z-index: 10;
 
   h1 {
     text-align: center;
@@ -47,7 +48,7 @@ const Content = styled.main`
 `;
 
 const Footer = styled.footer`
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
