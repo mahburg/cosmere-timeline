@@ -19,10 +19,9 @@ function App() {
 const AppContainer = styled.div`
   background-color: #333;
   color: white;
-  /* height: 100vh; */
   width: 100%;
   padding: 60px 0;
-  /* padding-top: 60px; */
+
 `;
 
 const Header = styled.header`
