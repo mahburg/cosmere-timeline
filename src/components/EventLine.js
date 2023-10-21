@@ -11,7 +11,9 @@ function EventLine(props) {
   const { color } = system;
 
   return (
-    <LineObject $color={color}>
+    <Wrapper>
+      <LineObject className="line" $color={color} />
+
       {events?.map((event) => {
         return (
           <Event
@@ -24,15 +26,23 @@ function EventLine(props) {
           />
         );
       })}
-    </LineObject>
+    </Wrapper>
   );
 }
+
+const Wrapper = styled.div`
+  position: relative;
+  width: 100%;
+  height: 100%;
+`;
+
 const LineObject = styled.div`
   position: relative;
   width: 100%;
   height: 3px;
   background-color: ${(props) => props.$color || 'white'};
   border-radius: 6px;
+  opacity: 0.8;
 `;
 
 export default EventLine;

@@ -1,6 +1,8 @@
+import { useState } from 'react';
 import styled from 'styled-components';
 
 function Event({ event, color, system, min, max }) {
+  const [open, setOpen] = useState(false);
   const year = event?.year ?? 0;
   const percent = (year - min) / (max - min);
   const left = percent > 0.5;
@@ -10,7 +12,12 @@ function Event({ event, color, system, min, max }) {
   // }
 
   return (
-    <Container $color={color} $percent={percent}>
+    <Container
+      className={open ? 'event-open' : 'event-closed'}
+      $color={color}
+      $percent={percent}
+      onClick={() => setOpen(!open)}
+    >
       <ContentWrapper>
         <EventBox className="event-box" $color={color} $left={left}>
           <h3>Year: {event?.year}</h3>
@@ -21,7 +28,7 @@ function Event({ event, color, system, min, max }) {
   );
 }
 
-const dotSize = 15;
+const dotSize = 20;
 
 const Container = styled.div`
   width: ${dotSize}px;
@@ -33,6 +40,7 @@ const Container = styled.div`
   background-color: ${(props) => props.$color || 'white'};
   cursor: pointer;
 
+  &.event-open,
   &:hover {
     border: 2px solid black;
     background-color: red;
@@ -61,6 +69,10 @@ const EventBox = styled.div`
   border: 1px solid ${(props) => props.$color || 'white'};
   display: none;
   z-index: 10;
+
+  &:hover {
+    z-index: 20;
+  }
 `;
 
 export default Event;

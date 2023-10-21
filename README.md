@@ -8,10 +8,11 @@ This project was bootstrapped with [Create React App]
 
 ## Roadmap
 
-- [ ] Basic timeline with events
-- [ ] Zoom in/out
+- [x] Basic timeline with events
+- [x] Zoom in/out
+- [x] Scroll/zoom bar?
 - [ ] Pan left/right
-- [ ] Select worlds
+- [x] Select worlds
 - [ ] Filtering by series/books
 - [ ] Dynamic custom filtering
 - [ ] Links to Coppermind

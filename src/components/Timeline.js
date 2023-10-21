@@ -51,7 +51,7 @@ const Container = styled.div`
   grid-template-columns: 120px 1fr 120px;
   gap: 20px;
   align-items: center;
-  opacity: 0.8;
+
   height: 36px;
   transition: all 0.25s ease-in-out;
 
@@ -61,7 +61,9 @@ const Container = styled.div`
     margin: 0 20px;
   }
   &:hover {
-    opacity: 1;
+    .line {
+      opacity: 1;
+    }
   }
 `;
 
