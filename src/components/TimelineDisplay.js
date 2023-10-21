@@ -7,7 +7,7 @@ import { addEventsToSystems, groupEventsBySystem } from '../utils/dataUtils';
 import { useState } from 'react';
 import useDebouncedState from '../hooks/useDebouncedState';
 
-const MIN_YEAR = 0;
+const MIN_YEAR = -1050;
 const MAX_YEAR = 16019;
 const systemsWithEvents = addEventsToSystems(
   systemsData,
@@ -15,10 +15,10 @@ const systemsWithEvents = addEventsToSystems(
 );
 
 function TimelineDisplay() {
-  const [minInput, setMinInput] = useState(0);
-  const [maxInput, setMaxInput] = useState(16019);
-  const [minYear, setMinYear] = useDebouncedState(0, 500);
-  const [maxYear, setMaxYear] = useDebouncedState(16019, 500);
+  const [minInput, setMinInput] = useState(MIN_YEAR);
+  const [maxInput, setMaxInput] = useState(MAX_YEAR);
+  const [minYear, setMinYear] = useDebouncedState(MIN_YEAR, 500);
+  const [maxYear, setMaxYear] = useDebouncedState(MAX_YEAR, 500);
 
   const [activeLines, setActiveLines] = useState(
     Object.keys(systemsWithEvents)

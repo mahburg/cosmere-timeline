@@ -1,9 +1,13 @@
 [
   {
-    "year": 0,
+    "year": -1050,
     "system": "Cosmere",
+    "events": "Adonalsium creates Roshar"
+  },
+  {
+    "year": 0,
+    "system": "Yolen",
     "events": "Shattering of Adonalsium",
-    "books": [],
     "shards": [
       "Ambition",
       "Autonomy",

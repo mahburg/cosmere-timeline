@@ -2,6 +2,14 @@
   "Cosmere": {
     "color": "white"
   },
+  "Yolen": {
+    "color": "gold",
+    "books": [
+      "The Liar of Partinel, The Lightweaver of Rens and Dragonsteel Prime. Dragonsteel (all unpublished)"
+    ],
+    "primary": "Dragonsteel (unpublished)"
+  },
+
   "Sel": {
     "color": "lime",
     "books": ["Elantris", "The Emperor's Soul"],
@@ -49,6 +57,16 @@
     "color": "yellow",
     "books": ["Sixth of the Dusk"],
     "primary": "Sixth of the Dusk"
+  },
+  "Lumar": {
+    "color": "purple",
+    "books": ["Tress of the Emerald Sea"],
+    "primary": "Tress of the Emerald Sea"
+  },
+  "Komashi": {
+    "color": "brown",
+    "books": ["Yumi and the Nightmare Painter"],
+    "primary": "Yumi and the Nightmare Painter"
   },
   "Canticle": {
     "color": "orange",
